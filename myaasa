@@ -6,7 +6,7 @@
     "details": [{
       "appIDs": ["59B368V557.dp.test.deep.link"],
       "components": [
-        { "/" : "/path1" }
+        { "/" : "/path10" }
       ]
     }]
   }
